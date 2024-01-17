@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, меня зовут <a href="https://ran4erep,github.io" target="_blank">Вадим</a>!
+<h1 align="center">Всем привет, меня зовут <a href="https://ran4erep.github.io" target="_blank">Вадим</a>!
 <img src="https://github.com/ran4erep/ran4erep.github.io/blob/master/img/Hi.gif" height="32"/></h1>
 <h3 align="center">А это мой Python скрипт для того чтобы работать с нейросетью Stable Diffusion через сервис Google Colaboratory без платной подписки.</h3>
 
