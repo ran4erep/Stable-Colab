@@ -8,7 +8,7 @@
 
 <h2>Инструкция по началу использования скрипта:</h2>
 <br>Видео-инструкция:<br>
-<a href="https://www.youtube.com/embed/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM" target="_blank"><img src="https://img.youtube.com/vi/VQ3YvX0-9wQ/mqdefault.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"></a>
+<a href="https://www.youtube.com/embed/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM" target="_blank"><img src="https://img.youtube.com/vi/VQ3YvX0-9wQ/mqdefault.jpg" alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10"></a>
 
 Зайдите на сайт <a href="https://colab.research.google.com">Google Colab</a>  и импортируйте файл Stable_Diffusion.ipynb нажав <b>Файл --> Открыть блокнот --> Загрузить</b>
 <br><br>
