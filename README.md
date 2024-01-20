@@ -7,11 +7,8 @@
 <h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=247EA6&random=false&width=435&lines=Tensors+must+flow..." alt="Typing SVG" /></a></h3>
 
 <h2>Инструкция по началу использования скрипта:</h2>
-<br>
-<a href="https://www.youtube.com/embed/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM" target="_blank"><img src="https://img.youtube.com/vi/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>Видео-инструкция:<br>
+<a href="https://www.youtube.com/embed/VQ3YvX0-9wQ?si=KLlCkihAdpZX4qoM" target="_blank"><img src="https://img.youtube.com/vi/VQ3YvX0-9wQ/mqdefault.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"></a>
 
 Зайдите на сайт <a href="https://colab.research.google.com">Google Colab</a>  и импортируйте файл Stable_Diffusion.ipynb нажав <b>Файл --> Открыть блокнот --> Загрузить</b>
 <br><br>
