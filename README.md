@@ -12,7 +12,7 @@ The English version of the manual is located below the Russian version.
 
 <h2>Инструкция по началу использования скрипта:</h2>
 <br>Видео-инструкция:<br>
-<a href="https://youtu.be/klMvuBeYGIU?si=ipb0xSfkFhl1E7wS" target="_blank"><img src="https://github.com/ran4erep/ran4erep.github.io/blob/master/test/sd_play.jpg" alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10"></a>
+<a href="https://www.youtube.com/embed/klMvuBeYGIU?si=ipb0xSfkFhl1E7wS" target="_blank"><img src="https://github.com/ran4erep/ran4erep.github.io/blob/master/test/sd_play.jpg" alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10"></a>
 <br>
 <br>
 
